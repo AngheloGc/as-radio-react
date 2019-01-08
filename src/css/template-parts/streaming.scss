@@ -1,0 +1,86 @@
+.App-streaming {
+    max-width: 100%;
+
+    &-header {
+        padding: 1em;
+        height: 60px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        .Anime-component {
+            display: flex;
+            align-items: center;
+
+            img {
+                border-radius: 2px;
+
+                height: 1.75em;
+                width: 1.75em;
+                margin-right: 0.75em
+            }
+            p {
+                display: flex;
+                align-items: center;
+
+                h4 {
+                    font-weight: 400;
+                    margin-right: 0.75em;
+                }
+
+                span {
+                    font-size: .9em;
+                    font-weight: 100;
+                    color: gray;
+                }
+            }
+        }
+
+        &-switcher {
+            font-size: 1.2em;
+        }
+    }
+
+    &-body {
+        height: 100%;
+        max-width: 100%;
+
+        &-player {
+            display: none;
+        }
+        
+        &-audio {
+            background-size: cover;
+            background-position: center center;
+            background-repeat: no-repeat;
+            height: 440px;
+            max-width: 100%;
+            
+
+            &-content {
+                display: flex;
+                align-items: flex-end;
+                background-color: rgba(black,.4);
+                height: 100%;
+                padding: 1.5em .5em;
+            }
+
+            img {
+                width: 5.75em;
+                height: 5.75em;
+                filter: grayscale(100%);
+            }
+            p {
+                font-size: 1.5em;
+
+                h2 {
+                    font-weight: 400;
+                }
+                span {
+                    font-weight: 100;
+                }
+
+            }
+        }
+    }
+}
