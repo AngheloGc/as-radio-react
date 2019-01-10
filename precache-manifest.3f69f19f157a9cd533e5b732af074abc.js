@@ -20,19 +20,19 @@ self.__precacheManifest = [
     "url": "/as-radio-react/static/js/runtime~main.b69fd8b9.js"
   },
   {
-    "revision": "b245b35b18c74f5967a2",
-    "url": "/as-radio-react/static/js/main.b245b35b.chunk.js"
+    "revision": "79a52cdacace18ba6323",
+    "url": "/as-radio-react/static/js/main.79a52cda.chunk.js"
   },
   {
-    "revision": "c17aa5a86cb66d2fce9e",
-    "url": "/as-radio-react/static/js/1.c17aa5a8.chunk.js"
+    "revision": "fdfdf686a27a40a57967",
+    "url": "/as-radio-react/static/js/1.fdfdf686.chunk.js"
   },
   {
-    "revision": "b245b35b18c74f5967a2",
-    "url": "/as-radio-react/static/css/main.27637907.chunk.css"
+    "revision": "79a52cdacace18ba6323",
+    "url": "/as-radio-react/static/css/main.53d883a9.chunk.css"
   },
   {
-    "revision": "327406d01932ff63b54cc18bb73e1fe8",
+    "revision": "0e9a402acde6e4efaf02ec5c018d292e",
     "url": "/as-radio-react/index.html"
   }
 ];
