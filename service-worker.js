@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/as-radio-react/precache-manifest.0e1bf228c49c9374f5d8f51dbbc3bc70.js"
+  "/as-radio-react/precache-manifest.dcab300472fae9be3bf031e067dd013c.js"
 );
 
 workbox.clientsClaim();
